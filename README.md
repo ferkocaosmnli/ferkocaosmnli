@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ferhat Kocaosmanli</h1>
 <p align="center">
-  <img src="https://www.javaindia.in/blog/wp-content/uploads/2021/04/java-vs-c.jpg" alt="Java vs C" width="400"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100"/>
 </p>
-<h3 align="center">A Software Developer from Turkey</h3>
+<h3 align="center">A Java Developer from Turkey</h3>
 
 
 <h3 align="left">Connect with me:</h3>
