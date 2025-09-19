@@ -26,8 +26,4 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ferkocaosmnli&show_icons=true&locale=en&layout=compact" alt="ferkocaosmnli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferkocaosmnli&show_icons=true&locale=en" alt="ferkocaosmnli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferkocaosmnli&" alt="ferkocaosmnli" /></p>
