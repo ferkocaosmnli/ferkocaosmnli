@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ferhat Kocaosmanli</h1>
+<h1 align="center">Hi ,I'm Ferhat Kocaosmanli</h1>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100"/>
 </p>
